@@ -50,7 +50,7 @@
     </p>
 
     <div class="container">
-        <img src="sonicC.png" alt="Sonic clásico">
+        <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Sonic_the_Hedgehog.png" alt="Sonic clásico">
     </div>
 
     <p>
@@ -60,8 +60,40 @@
     </p>
 
     <div class="container">
-        <img src="TyNK.png" alt="Tails y Knuckles">
+        <img src="tails_knuckles.png" alt="Tails y Knuckles">
     </div>
+
+    <hr>
+
+    <!-- SECCIÓN SHADOW -->
+    <div class="container">
+        <h1>Shadow the Hedgehog</h1>
+
+        <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Shadow_the_Hedgehog.png" alt="Shadow">
+
+        <div class="info">
+            <p><strong>Personaje:</strong> Shadow</p>
+            <p><strong>Alias:</strong> La forma de vida definitiva</p>
+            <p><strong>Habilidad:</strong> Chaos Control</p>
+        </div>
+    </div>
+
+    <p>
+        Shadow the Hedgehog es uno de los personajes más importantes del universo de Sonic.
+        Fue creado por el Profesor Gerald Robotnik como la "forma de vida definitiva".
+        A diferencia de Sonic, Shadow tiene una personalidad más seria, fría y enfocada.
+    </p>
+
+    <div class="container">
+        <img src="https://media.tenor.com/YQp0Q9KX7iMAAAAd/shadow-the-hedgehog.gif" alt="Shadow en acción">
+    </div>
+
+    <p>
+        Shadow posee habilidades similares a Sonic, pero además puede utilizar el poder del
+        Chaos Control gracias a las Chaos Emeralds, lo que le permite teletransportarse y
+        manipular el tiempo. Aunque a veces actúa como rival, también ha sido aliado en
+        múltiples ocasiones para salvar el mundo.
+    </p>
 
     <hr>
 
