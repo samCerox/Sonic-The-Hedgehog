@@ -98,11 +98,13 @@
     <hr>
 
     <div class="container">
-        <h1>Sonic en Acción</h1>
-        <video autoplay muted loop>
-            <source src="sonic_video.mp4" type="video/mp4">
-        </video>
-    </div>
+    <h1>Sonic en Acción</h1>
+
+    <video controls autoplay muted loop width="600">
+        <source src="sonic_video.mp4" type="video/mp4">
+    </video>
+
+</div>
 
     <p>
         Sonic puede correr a velocidades supersónicas, lo que le permite esquivar ataques,
