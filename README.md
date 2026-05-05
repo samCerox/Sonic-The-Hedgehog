@@ -50,7 +50,7 @@
     </p>
 
     <div class="container">
-        <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Sonic_the_Hedgehog.png" alt="Sonic clásico">
+        <img src="sonicC.png" alt="Sonic clásico">
     </div>
 
     <p>
@@ -60,7 +60,7 @@
     </p>
 
     <div class="container">
-        <img src="tails_knuckles.png" alt="Tails y Knuckles">
+        <img src="TyNK.png" alt="Tails y Knuckles">
     </div>
 
     <hr>
